@@ -55,6 +55,7 @@ https://admx.help/?Category=Office2016&Policy=office16.Office.Microsoft.Policies
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.ControlPanelDisplay::CPL_Personalization_NoDesktopBackgroundUI
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_IncludeUnspecifiedLocalSites
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_ProxyByPass
+https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::SecurityPage_AutoDetect
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.PowerShell::EnableScripts
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.WindowsDesktop::Wallpaper
 https://admx.help/?Category=Windows_7_2008R2&Policy=Microsoft.Policies.InternetCommunicationManagement::EventViewer_DisableLinks
@@ -462,6 +463,7 @@ https://docs.aws.amazon.com/config/latest/developerguide/cloudtrail-log-files-fo
 https://docs.aws.amazon.com/efs/latest/ug/API_DeleteFileSystem.html
 https://docs.aws.amazon.com/efs/latest/ug/API_DeleteMountTarget.html
 https://docs.aws.amazon.com/glue/latest/webapi/API_CreateDevEndpoint.html
+https://docs.aws.amazon.com/guardduty/latest/APIReference/API_UpdateDetector.html
 https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-kubernetes.html#privilegeescalation-kubernetes-privilegedcontainer
 https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_suspend-disable.html
 https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteSAMLProvider.html
@@ -793,6 +795,7 @@ https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b
 https://gist.github.com/NickTyrer/0598b60112eaafe6d07789f7964290d5
 https://gist.github.com/roycewilliams/a723aaf8a6ac3ba4f817847610935cfb
 https://gist.github.com/ryhanson/227229866af52e2d963cf941af135a52
+https://gist.github.com/swachchhanda000/a0228130f86a2dedfbcebb415b47f870
 https://gist.github.com/teixeira0xfffff/837e5bfed0d1b0a29a7cb1e5dbdd9ca6
 https://gist.githubusercontent.com/bohops/0cc6586f205f3691e04a1ebf1806aabd/raw/baf7b29891bb91e76198e30889fbf7d6642e8974/calc_exe.inf
 https://gist.githubusercontent.com/MichaelKoczwara/12faba9c061c12b5814b711166de8c2f/raw/e2068486692897b620c25fde1ea258c8218fe3d3/history.txt
@@ -823,6 +826,7 @@ https://github.com/albertzsigovits/malware-notes/blob/c820c7fea76cf76a861b28ebc7
 https://github.com/AlessandroZ/LaZagne/tree/master
 https://github.com/AliBrTab/CVE-2023-46747-POC/tree/main
 https://github.com/AlsidOfficial/WSUSpendu/
+https://github.com/amidaware/tacticalrmm
 https://github.com/amjcyber/EDRNoiseMaker
 https://github.com/amlweems/xzbot?tab=readme-ov-file#backdoor-demo
 https://github.com/antonioCoco/JuicyPotatoNG
@@ -1254,6 +1258,7 @@ https://github.com/rapid7/metasploit-framework/blob/d297adcebb5c1df6fe30b12ca79b
 https://github.com/rapid7/metasploit-framework/blob/eb6535009f5fdafa954525687f09294918b5398d/data/post/powershell/NTDSgrab.ps1
 https://github.com/rapid7/metasploit-framework/blob/eb6535009f5fdafa954525687f09294918b5398d/modules/exploits/multi/http/struts_code_exec_exception_delegator.rb
 https://github.com/rapid7/metasploit-framework/blob/eb6535009f5fdafa954525687f09294918b5398d/modules/post/windows/gather/ntds_grabber.rb
+https://github.com/rapid7/metasploit-framework/issues/11337
 https://github.com/rapid7/metasploit-framework/pull/17407
 https://github.com/redcanaryco/atomic-red-team/blob/02c7d02fe1f1feb0fc7944550408ea8224273994/atomics/T1112/T1112.md#atomic-test-63---disable-remote-desktop-anti-alias-setting-through-registry
 https://github.com/redcanaryco/atomic-red-team/blob/02c7d02fe1f1feb0fc7944550408ea8224273994/atomics/T1112/T1112.md#atomic-test-64---disable-remote-desktop-security-settings-through-registry
@@ -1578,6 +1583,8 @@ https://github.com/rsmudge/Malleable-C2-Profiles/blob/26323784672913923d20c5a638
 https://github.com/rsmudge/Malleable-C2-Profiles/blob/26323784672913923d20c5a638c6ca79459e8529/normal/ocsp.profile
 https://github.com/rsmudge/Malleable-C2-Profiles/blob/26323784672913923d20c5a638c6ca79459e8529/normal/onedrive_getonly.profile
 https://github.com/rsp/scripts/blob/c8bb272d68164a9836e4f273d8f924927f39b8c6/externalip-benchmark.md
+https://github.com/rtecCyberSec/BitlockMove
+https://github.com/rtecCyberSec/SpeechRuntimeMove
 https://github.com/rvrsh3ll/Misc-Powershell-Scripts/blob/6f23bb41f9675d7e2d32bacccff75e931ae00554/OfficeMemScraper.ps1
 https://github.com/S12cybersecurity/RDPCredentialStealer
 https://github.com/S12cybersecurity/RDPCredentialStealer/blob/1b8947cdd065a06c1b62e80967d3c7af895fcfed/APIHookInjectorBin/APIHookInjectorBin/Inject.h#L25
@@ -1761,6 +1768,7 @@ https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/conten
 https://hunter2.gitbook.io/darthsidious/execution/responder-with-ntlm-relay-and-empire
 https://hunter2.gitbook.io/darthsidious/other/war-stories/domain-admin-in-30-minutes
 https://hunter2.gitbook.io/darthsidious/privilege-escalation/mimikatz
+https://huntress.com/blog/esxi-vm-escape-exploit
 https://hyp3rlinx.altervista.org/advisories/MICROSOFT_WINDOWS_DEFENDER_TROJAN.WIN32.POWESSERE.G_MITIGATION_BYPASS_PART2.txt
 https://i.blackhat.com/EU-21/Wednesday/EU-21-Teodorescu-Veni-No-Vidi-No-Vici-Attacks-On-ETW-Blind-EDRs.pdf
 https://ijustwannared.team/2020/08/01/the-curious-case-of-aspnet_compiler-exe/
@@ -1893,6 +1901,7 @@ https://learn.microsoft.com/en-us/azure/developer/dev-tunnels/security
 https://learn.microsoft.com/en-us/azure/dns/dns-zones-records
 https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations
 https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftauthorization
+https://learn.microsoft.com/en-us/azure/role-based-access-control/resource-provider-operations#microsoftkubernetes
 https://learn.microsoft.com/en-us/defender-cloud-apps/anomaly-detection-policy
 https://learn.microsoft.com/en-us/defender-cloud-apps/policy-template-reference
 https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction
@@ -1922,6 +1931,7 @@ https://learn.microsoft.com/en-us/entra/architecture/security-operations-applica
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#new-owner
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-devices#device-administrator-roles
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-devices#device-registrations-and-joins-outside-policy
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-devices#non-compliant-device-sign-in
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-infrastructure#conditional-access
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-accounts
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-privileged-accounts#changes-to-privileged-accounts
@@ -2026,6 +2036,7 @@ https://learn.microsoft.com/en-us/previous-versions/dotnet/framework/data/xml/xs
 https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer/automate-word-create-file-using-visual-basic
 https://learn.microsoft.com/en-us/previous-versions/windows/desktop/legacy/aa394225(v=vs.85)
 https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ms766431(v=vs.85)
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4616
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4624
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4634
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4647
@@ -2163,6 +2174,7 @@ https://learn.microsoft.com/en-us/windows/win32/secauthz/sid-strings
 https://learn.microsoft.com/en-us/windows/win32/shell/app-registration
 https://learn.microsoft.com/en-us/windows/win32/shell/csidl
 https://learn.microsoft.com/en-us/windows/win32/shell/launch
+https://learn.microsoft.com/en-us/windows/win32/shell/shell-and-managed-code
 https://learn.microsoft.com/en-us/windows/win32/taskschd/daily-trigger-example--xml-
 https://learn.microsoft.com/en-us/windows/win32/wer/collecting-user-mode-dumps
 https://learn.microsoft.com/en-us/windows/win32/winrm/windows-remote-management-architecture
@@ -2716,6 +2728,7 @@ https://securitylab.github.com/research/octopus-scanner-malware-open-source-supp
 https://securityliterate.com/how-malware-abuses-the-zone-identifier-to-circumvent-detection-and-analysis/
 https://securityscorecard.com/research/deep-dive-into-alphv-blackcat-ransomware
 https://securityxploded.com/
+https://semgrep.dev/blog/2025/digging-for-secrets-sha1-hulud-the-second-coming-of-the-npm-worm/
 https://sensepost.com/blog/2022/abusing-windows-tokens-to-compromise-active-directory-without-touching-lsass/
 https://sensepost.com/blog/2024/dumping-lsa-secrets-a-story-about-task-decorrelation/
 https://sergiusechel.medium.com/improving-the-network-based-detection-of-cobalt-strike-c2-servers-in-the-wild-while-reducing-the-6964205f6468
@@ -3543,6 +3556,7 @@ https://www.blue-prints.blog/content/blog/posts/lolbin/addinutil-lolbas.html
 https://www.bluecoat.com/en-gb/security-blog/2015-05-05/know-your-agents
 https://www.bluetangle.dev/2022/08/fastening-seatbelt-on-threat-hunting.html
 https://www.blumira.com/cve-2023-2283/
+https://www.broadcom.com/support/security-center/protection-bulletin/funksec-ransomware
 https://www.cadosecurity.com/blog/spinning-yarn-a-new-linux-malware-campaign-targets-docker-apache-hadoop-redis-and-confluence
 https://www.cadosecurity.com/spinning-yarn-a-new-linux-malware-campaign-targets-docker-apache-hadoop-redis-and-confluence/
 https://www.carbonblack.com/2014/06/10/screenshot-demo-hunt-evil-faster-than-ever-with-carbon-black/
@@ -4022,6 +4036,7 @@ https://www.splunk.com/en_us/blog/security/breaking-the-chain-defending-against-
 https://www.splunk.com/en_us/blog/security/darkside-ransomware-splunk-threat-update-and-detections.html
 https://www.splunk.com/en_us/blog/security/follina-for-protocol-handlers.html
 https://www.splunk.com/en_us/blog/security/inno-setup-malware-redline-stealer-campaign.html
+https://www.splunk.com/en_us/blog/security/msix-weaponization-threat-detection-splunk.html
 https://www.sprocketsecurity.com/resources/crossing-the-log4j-horizon-a-vulnerability-with-no-return
 https://www.swascan.com/cactus-ransomware-malware-analysis/
 https://www.sygnia.co/golden-saml-advisory
@@ -4084,6 +4099,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-blackbyte
 https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/trojan.win32.azoruit.a
 https://www.trendmicro.com/vinfo/vn/threat-encyclopedia/malware/ransom.bat.zarlock.a
+https://www.trendmicro.com/zh_hk/research/26/c/axios-npm-package-compromised.html
 https://www.trimarcsecurity.com/single-post/TrimarcResearch/Detecting-Kerberoasting-Activity
 https://www.trustedsec.com/blog/abusing-windows-telemetry-for-persistence/
 https://www.trustedsec.com/blog/art_of_kerberoast/
